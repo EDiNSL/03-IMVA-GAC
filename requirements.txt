@@ -3,3 +3,4 @@ torch
 diffusers
 transformers
 accelerate
+git+https://github.com/huggingface/diffusers.git
